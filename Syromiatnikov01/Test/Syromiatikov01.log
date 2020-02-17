@@ -1,0 +1,5 @@
+﻿  List.cpp
+C:\Users\User\Documents\PapkaGit\SyromiatnikovMark\Syromiatnikov01\List.cpp(57): warning C4715: List::DeleteMonitor: значение возвращается не при всех путях выполнения
+  Test.cpp
+C:\Users\User\Documents\PapkaGit\SyromiatnikovMark\Syromiatnikov01\Test.cpp(16): warning C4700: использована неинициализированная локальная переменная "test_monitors"
+  Syromiatikov01.vcxproj -> C:\Users\User\Documents\PapkaGit\SyromiatnikovMark\Syromiatnikov01\Test\Syromiatnikov01.exe
